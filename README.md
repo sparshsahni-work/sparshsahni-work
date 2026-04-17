@@ -92,10 +92,3 @@ I'm a B.Tech CSE student at VIT Bhopal and a passionate full-stack web & app dev
 ![](https://streak-stats.demolab.com/?user=sparshsahni-work&theme=default&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sparshsahni-work&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sparshsahni-work&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://komarev.com/ghpvc/?username=sparshsahni-work&color=0)](https://visitcount.itsvg.in)
